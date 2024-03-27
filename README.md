@@ -2,9 +2,9 @@
 <p>
 👋 Hi, my name is Ygor Ruan Pereira from Brazil! A  System Analysis and Development commited student.
   
-- 👨‍🎓  I'm currently cursing System Analysis and Development at the Fatec university.
-- ⚙️ I'm graduated in System Development technical education at Etec.</li>
-- 🎯 I am looking for my first job in the development area. My dream is become a successful developer.
+- 👨‍🎓 I'm currently studying System Analysis and Development at Fatec University
+- ⚙️ I'm graduated in System Development technical education at Etec..</li>
+- 🎯 I am looking for my first job in the development area. My dream is to become a successful developer.
 </p>
 <details>
   <summary>🙋‍♂️ More about me</summary>
