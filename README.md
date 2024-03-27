@@ -13,9 +13,6 @@
 
   - 😍 I enjoy watching a good movie or series, playing video games with my friends on vacation days, and learn about technology. I can't live without music, and it greatly contributes to my English learning. I would like to tal about your hobbies to see if we have any common preferences!
 </details>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=holi) 
 ## 📌 Portfolio
 ## 🔥 Skills
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=holi)
 ## 🌐 Social Media
