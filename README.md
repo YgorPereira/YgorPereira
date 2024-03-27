@@ -2,7 +2,7 @@
 <p>
 👋 Hi, my name is Ygor Ruan Pereira from Brazil! A  System Analysis and Development commited student.
   
-- 👨‍🎓  I'm currently pursuing A  System Analysis and Development at the Fatec university.
+- 👨‍🎓  I'm currently cursing System Analysis and Development at the Fatec university.
 - ⚙️ I'm graduated in System Development technical education at Etec.</li>
 - 🎯 I am looking for my first job in the development area. My dream is become a successful developer.
 </p>
@@ -13,6 +13,18 @@
 
   - 😍 I enjoy watching a good movie or series, playing video games with my friends on vacation days, and learn about technology. I can't live without music, and it greatly contributes to my English learning. I would like to tal about your hobbies to see if we have any common preferences!
 </details>
+
+<div align="center">
+  <a href="https://github.com/YgorPereira">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YgorPereira&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YgorPereira&layout=compact&langs_count=7&theme=holi"/>
+</div>
+    
 ## 📌 Portfolio
+    
 ## 🔥 Skills
+    
 ## 🌐 Social Media
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+
