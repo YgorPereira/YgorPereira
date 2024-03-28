@@ -26,7 +26,8 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/ygorrp)
     
 ## 📌 Portfolio
-    
+<a href=""> SurveyForm - ResponsiveWebDesign </a>
+<a href="https://github.com/YgorPereira/DesafiosPython-CursoemVideo.git"> Python Challegesn - CeV </a>
 ## 🔥 Skills
 
 ### Programming Languages
