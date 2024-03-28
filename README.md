@@ -54,9 +54,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
-
-<p align="left">
-  <img align="center" src="https://www.behance.net/gallery/136096999/Jpeg-Hunting/modules/769956589" alt="Imagem">
+<br>
+<p align="center">
+  <img align="center" src="gif-lofi coding.gif" alt="Imagem">
 </p>
 
 <p align="center"><b>Visitors Count</b></p>
