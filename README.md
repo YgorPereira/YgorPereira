@@ -26,8 +26,8 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/ygorrp)
     
 ## 📌 Portfolio
-<a href=""> SurveyForm - ResponsiveWebDesign </a>
-<a href="https://github.com/YgorPereira/DesafiosPython-CursoemVideo.git"> Python Challegesn - CeV </a>
+- <a href="https://github.com/YgorPereira/SurveyForm-ResponsiveWebDesign.git"> SurveyForm - ResponsiveWebDesign </a>
+- <a href="https://github.com/YgorPereira/DesafiosPython-CursoemVideo.git"> Python Challeges - CeV </a>
 ## 🔥 Skills
 
 ### Programming Languages
@@ -54,6 +54,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
+
+<img src="https://www.behance.net/gallery/136096999/Jpeg-Hunting?tracking_source=project_owner_other_projects">
 
 <p align="center"><b>Visitors Count</b></p>
 <div align="center">
