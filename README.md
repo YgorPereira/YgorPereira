@@ -55,7 +55,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-<img src="https://www.behance.net/gallery/136096999/Jpeg-Hunting?tracking_source=project_owner_other_projects">
+<p align="left">
+  <img align="center" src="https://www.behance.net/gallery/136096999/Jpeg-Hunting/modules/769956589" alt="Imagem">
+</p>
 
 <p align="center"><b>Visitors Count</b></p>
 <div align="center">
