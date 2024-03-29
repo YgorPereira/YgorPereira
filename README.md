@@ -1,6 +1,6 @@
 # Hello World!
 <p>
-👋 Hi, my name is Ygor Ruan Pereira from Brazil! A  System Analysis and Development commited student.
+👋 Hi, my name is Ygor Ruan Pereira from Brazil, a System Analysis and Development commited student.
   
 - 👨‍🎓 I'm currently studying System Analysis and Development at Fatec University
 - ⚙️ I'm graduated in System Development technical education at Etec..</li>
