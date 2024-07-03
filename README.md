@@ -58,6 +58,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
 </div>
 <br>
+
+## 📚 Learning at the Moment
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
+
+---
+
 <p align="center">
   <img align="center" src="gif-lofi coding.gif" alt="Imagem">
 </p>
