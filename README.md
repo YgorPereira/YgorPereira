@@ -82,10 +82,6 @@
 
 ###
 
-<h2 align="left">📌 Featured Projects</h2>
-
-###
-
 <p align="left">projetos<br>...</p>
 
 ###
