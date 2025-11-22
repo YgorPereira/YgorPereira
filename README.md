@@ -82,10 +82,6 @@
 
 ###
 
-<p align="left">projetos<br>...</p>
-
-###
-
 <h2 align="left">📈 GitHub Stats</h2>
 
 ###
